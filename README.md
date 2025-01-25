@@ -13,3 +13,10 @@ Future Updates:
 4.Logout Session.
 
 5.Close the Complete Campaign.
+
+
+Setup:
+
+run npm i && npm start for both client and server side to start the development server
+or
+run npm i && npm run dev for both client and server side to start the development server
